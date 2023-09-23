@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Türkiye İl Plaka Kodları</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Türkiye İl Plaka Kodları</h1>
+    <div id="result">
+        <label for="inputType">Arama Türü:</label>
+        <select id="inputType">
+            <option value="plaka">Plakadan Şehir Bul</option>
+            <option value="sehir">Şehirden Plaka Bul</option>
+        </select>
+        <input type="text" id="inputValue" placeholder="Arama Değeri">
+        <button onclick="search()">Ara</button>
+        <div id="output"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
