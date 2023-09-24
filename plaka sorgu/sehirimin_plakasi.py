@@ -4,7 +4,7 @@ plaka_veritabani = {
     "02": "Adıyaman",  
     "03": "Afyonkarahisar",
     "04": "Ağrı",
-    "05": "Amasya",
+    "05": "Amasya", 
     "06": "Ankara",
     "07": "Antalya",
     "08": "Artvin",
