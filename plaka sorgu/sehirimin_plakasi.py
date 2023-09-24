@@ -1,7 +1,7 @@
 # Türkiye'nin 81 ilinin plaka kodları ve isimleri
 plaka_veritabani = { 
     "01": "Adana",
-    "02": "Adıyaman",
+    "02": "Adıyaman",  
     "03": "Afyonkarahisar",
     "04": "Ağrı",
     "05": "Amasya",
